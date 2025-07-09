@@ -1,4 +1,4 @@
-# BW_25
+# Github readme
 
 <h1 align="center">Hi👋, I'm Ojas Mahajan</h1>
 <h3 align="center">🚀 Final-year IT undergrad aspiring for Full-stack and SDE roles</h3>
