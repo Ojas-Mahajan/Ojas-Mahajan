@@ -9,7 +9,7 @@
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1qtw74ORE3cDoV0kEx5wNnIseD5JDny-x/view?usp=drive_link**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1WNoZEj2IfVhP-uPtTuO09_KxjoGQ4a48/view?usp=drive_link**
 
 - 📫 How to reach me **ojasmahajan2004@gmail.com**
 
