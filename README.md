@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojas-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="ojas-mahajan" /> </p>
- 💼 Actively working with MERN stack, with a growing interest in machine learning.
+ 💼 MERN Stack Developer with experience in building and deploying full-stack applications, and a keen interest in the potential of Machine Learning and Large Language Models (LLMs).
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
 
