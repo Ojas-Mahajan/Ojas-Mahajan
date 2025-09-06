@@ -1,7 +1,7 @@
 # Github readme
 
 <h1 align="center">Hi👋, I'm Ojas Mahajan</h1>
-<h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack and SDE roles</h3>
+<h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack, SDE and Data Science roles</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojas-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="ojas-mahajan" /> </p>
