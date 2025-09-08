@@ -4,7 +4,6 @@
 <h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack, SDE and Data Science roles</h3>
 
 
-<p align="left"> <img src="https://drive.google.com/file/d/1zxuI-E3kU7VBSgdP1bJcWbaIq7kp2r40/view?usp=sharing" /> </p>
  💼 MERN Stack Developer with experience in building and deploying full-stack applications, and a keen interest in the potential of Machine Learning and Large Language Models (LLMs).
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
