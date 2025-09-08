@@ -8,7 +8,8 @@
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
 
-- 📄 Know about my experiences **https://drive.google.com/uc?export=view&id=1zxuI-E3kU7VBSgdP1bJcWbaIq7kp2r40**
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1zxuI-E3kU7VBSgdP1bJcWbaIq7kp2r40/preview)
+
 
 - 📫 How to reach me **ojasmahajan2004@gmail.com**
 
