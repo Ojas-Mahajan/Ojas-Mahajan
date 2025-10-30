@@ -1,19 +1,6 @@
 # Github readme
 
-<h1 align="center">Hi👋, I'm Ojas Mahajan</h1><h3 align="center">Badges</h3>
-<p align="center">
-  <a href="https://www.holopin.io/@ojasmahajan#badges">
-    <img src="https://holopin.io/api/user/board?user=ojasmahajan" alt="@ojasmahajan's Holopin board" />
-  </a>
-</p>
-
-<h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack, SDE and Data Science roles</h3>
-<h3 align="center">Badges</h3>
-<p align="center">
-  <a href="https://www.holopin.io/@ojasmahajan#badges">
-    <img src="https://holopin.io/api/user/board?user=ojasmahajan" alt="@ojasmahajan's Holopin board" />
-  </a>
-</p>
+<h1 align="center">Hi👋, I'm Ojas Mahajan</h1> <h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack, SDE and Data Science roles</h3>
 
 
 
