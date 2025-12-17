@@ -1,6 +1,10 @@
 # Github readme
 
-<h1 align="center">Hi👋, I'm Ojas Mahajan</h1> <h3 align="center">🚀 A Final-year IT undergrad aspiring for Full-stack, SDE and Data Science roles</h3>
+<h1 align="center">Hi 👋, I'm Ojas Mahajan</h1>
+<h3 align="center">
+Final-year IT undergrad | Aspiring SDE • Data Engineer • AI/ML Engineer • Full-Stack Developer
+</h3>
+
 
 
 
