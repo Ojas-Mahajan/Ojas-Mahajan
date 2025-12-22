@@ -12,7 +12,7 @@ Final-year IT undergrad | Aspiring SDE • Data Engineer • AI/ML Engineer • 
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1x88xDX4Gfx2CUmwoPrC2Kj542b3Xr6Dr/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1puRpOV7W2OWkqayPMA5e7ObRyFUCbexs/view?usp=drive_link)
 
 
 - 📫 How to reach me **ojasmahajan2004@gmail.com**
