@@ -30,4 +30,4 @@ Final-year IT undergrad | Aspiring SDE • Data Engineer • AI/ML Engineer • 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojas-mahajan&show_icons=true&locale=en&layout=compact" alt="ojas-mahajan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojas-mahajan&" alt="ojas-mahajan" /></p> fix error aand remove this error ad give updated code for my github readme
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojas-mahajan&" alt="ojas-mahajan" /></p> 
