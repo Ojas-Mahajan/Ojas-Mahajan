@@ -8,7 +8,7 @@ Final-year IT undergrad | Aspiring SDE • Data Engineer • AI/ML Engineer • 
 
 
 
- 💼 MERN Stack Developer with experience in building and deploying full-stack applications, and a keen interest in the potential of Machine Learning and Large Language Models (LLMs).
+ 💼  Software Developer with experience in building and deploying full-stack applications, and a keen interest in the potential of Machine Learning and Large Language Models (LLMs).
 
  - 🤝 Open for internships, collaborations, and contribution to open-source projects
 
