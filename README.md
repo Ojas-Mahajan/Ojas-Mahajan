@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ojas Mahajan</h1>
 <h3 align="center">
-Final-year IT undergrad | Aspiring SDE • Data Engineer • AI/ML Engineer • Full-Stack Developer
+Final-year IT undergrad | Aspiring SDE • AI/ML Engineer • Data Engineer • Full-Stack Developer
 </h3>
 
 
