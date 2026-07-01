@@ -1,16 +1,14 @@
-# Github readme
+# Github readme<h1 align="center">Hi 👋, I'm Ojas Mahajan</h1>
 
-<h1 align="center">Hi 👋, I'm Ojas Mahajan</h1>
 <h3 align="center">
-Final-year IT undergrad | Aspiring SDE • AI/ML Engineer • Data Engineer • Full-Stack Developer
+AI Engineer Intern | Aspiring SDE • AI/ML Engineer • Data Engineer • Full-Stack Developer
 </h3>
 
+💼 AI Engineer Intern with experience building Agentic AI applications, LLM-powered systems, semantic search solutions, and production-ready full-stack applications.
 
+🚀 Passionate about AI Engineering, Software Development, Data Engineering, and scalable backend systems.
 
-
- 💼 Software Developer with experience in building and deploying full-stack applications, and a keen interest in the potential of Machine Learning and Large Language Models (LLMs).
-
- - 🤝 Open for internships, collaborations, and contribution to open-source projects
+- 🤝 Open to internships, full-time opportunities, collaborations, and open-source contributions.
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1OI7F7crsGSpjlQGH_cwGERkFxc1SEBhF/view?usp=drive_link)
 
