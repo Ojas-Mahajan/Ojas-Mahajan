@@ -1,7 +1,7 @@
 # Github readme<h1 align="center">Hi 👋, I'm Ojas Mahajan</h1>
 
 <h3 align="center">
-AI Engineer Intern | Aspiring SDE • AI/ML Engineer • Data Engineer • Full-Stack Developer
+AI Engineer Intern | Aspiring SDE • AI/ML Engineer  • Full-Stack Developer
 </h3>
 
 💼 AI Engineer Intern with experience building Agentic AI applications, LLM-powered systems, semantic search solutions, and production-ready full-stack applications.
