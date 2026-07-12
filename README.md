@@ -10,7 +10,7 @@ AI Engineer Intern | Aspiring SDE • AI/ML Engineer  • Full-Stack Developer
 
 - 🤝 Open to internships, full-time opportunities, collaborations, and open-source contributions.
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1OI7F7crsGSpjlQGH_cwGERkFxc1SEBhF/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1C_eYIKFq8koDuQE4WqdKCuTz7qTw6H-0/view?usp=sharing)
 
 
 - 📫 How to reach me **ojasmahajan2004@gmail.com**
